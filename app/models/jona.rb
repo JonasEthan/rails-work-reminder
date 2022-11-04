@@ -1,0 +1,2 @@
+class Jona < ApplicationRecord
+end
